@@ -123,7 +123,7 @@ APP_DEBUG=false
 **Nama:** Triya  
 **Email:** 3yanisa@gmail.com  
 **Tahun:** 2025  
-**Mata Kuliah:** Pemrograman Web Praktikum  
+**Mata Kuliah:** Pemrograman Web 
 
 ---
 
