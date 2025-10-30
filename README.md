@@ -36,9 +36,9 @@ Dibuat menggunakan **PHP** dan **MySQL** dengan konsep **CRUD (Create, Read, Upd
 
 1. **Clone atau Download Project**
    ```bash
-   git clone https://github.com/username/rehabit.git
+   git clone https://github.com/3yakhansa/Habit-Tracker.git
    ```
-   atau cukup ekstrak file ZIP ke dalam folder `C:\laragon\www\rehabit`.
+   atau cukup ekstrak file ZIP ke dalam folder `C:\laragon\www\Habit-Tracker`.
 
 2. **Buat Database**
    Buka **phpMyAdmin** dan jalankan SQL berikut:
@@ -66,7 +66,7 @@ Dibuat menggunakan **PHP** dan **MySQL** dengan konsep **CRUD (Create, Read, Upd
 
 4. **Jalankan di Browser**
    ```
-   http://localhost/rehabit/
+   http://localhost/Habit-Tracker/
    ```
 
 5. **Login**
