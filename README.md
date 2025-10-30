@@ -1,7 +1,7 @@
 # 🌱 ReHabit – Aplikasi Pelacak Kebiasaan Harian
 
 **ReHabit** adalah aplikasi berbasis web sederhana untuk membantu pengguna membangun dan mempertahankan kebiasaan baik setiap hari.  
-Dibuat menggunakan **PHP (Native)** dan **MySQL** dengan konsep **CRUD (Create, Read, Update, Delete)**.
+Dibuat menggunakan **PHP** dan **MySQL** dengan konsep **CRUD (Create, Read, Update, Delete)**.
 
 ---
 
@@ -112,9 +112,15 @@ APP_DEBUG=false
 
 ### 1. Halaman Utama (Landing Page)
 ![Landing Page](assets/screenshot-landing.png)
+![Landing Page](assets/screenshot-landing-dark.png)
 
-### 2. Dashboard CRUD Habits (Dark Mode)
-![Dashboard Dark Mode](assets/screenshot-dashboard.png)
+### 2. Login
+![Login Page](assets/login.png)
+
+### 3. Dashboard CRUD Habits
+![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard-2.png)
+![Dashboard](assets/dashboard-dark.png)
 
 ---
 
@@ -123,7 +129,7 @@ APP_DEBUG=false
 **Nama:** Triya  
 **Email:** 3yanisa@gmail.com  
 **Tahun:** 2025  
-**Mata Kuliah:** Pemrograman Web 
+**Mata Kuliah:** Pemrograman Web Praktikum  
 
 ---
 
