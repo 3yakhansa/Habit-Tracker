@@ -79,9 +79,15 @@ Dibuat menggunakan **PHP** dan **MySQL** dengan konsep **CRUD (Create, Read, Upd
 ```
 rehabit/
 ├── assets/
-│   ├── style.css          # File CSS utama (termasuk dark mode)
-│   ├── script.js          # Logika dark mode toggle
-│   └── rehabit.png        # Gambar logo
+│   ├── style.css                   # File CSS utama (termasuk dark mode)
+│   ├── script.js                   # Logika dark mode toggle
+│   └── rehabit.png                 # Gambar logo
+│   ├── dashboard.png               # screenshot dashboard
+│   └── dashboard-2.png             # screenshot dashboard 2
+│   └── dashboard-dark.png          # screenshot dashboard dark mode
+│   └── login.png                   # screenshot login
+│   └── screemshot-landing-dark.png #  screenshot landing page dark mode
+│   └── screemshot-landing.png      #  screenshot landing page 
 │
 ├── database.php           # Koneksi dan setup database
 ├── index.php              # Halaman utama landing page
@@ -106,12 +112,13 @@ APP_ENV=local
 APP_DEBUG=false
 ```
 
----
+```
 
 ## 🖼️ Screenshot Aplikasi
 
 ### 1. Halaman Utama (Landing Page)
 ![Landing Page](assets/screenshot-landing.png)
+
 ![Landing Page](assets/screenshot-landing-dark.png)
 
 ### 2. Login
@@ -120,6 +127,7 @@ APP_DEBUG=false
 ### 3. Dashboard CRUD Habits
 ![Dashboard](assets/dashboard.png)
 ![Dashboard](assets/dashboard-2.png)
+
 ![Dashboard](assets/dashboard-dark.png)
 
 ---
